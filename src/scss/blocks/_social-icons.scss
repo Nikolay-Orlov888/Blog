@@ -6,6 +6,10 @@
 .social-icons__item{
     margin-right: 30px;
 
+    &:hover {
+        opacity: .7;
+    }
+
     &:last-child {
         margin-right: 0;
     }

@@ -5,6 +5,11 @@
 
 .share-icon-item {
     margin-right: 25px;
+    cursor: pointer;
+    
+    &:hover {
+        opacity: .7;
+    }
 
     &:last-child {
         margin-right: 0;
